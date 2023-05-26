@@ -23,12 +23,13 @@
                
 ◽  So all the above symbols and alphabets can be given by the user in the input statement and output
      will be as follows:
-     /assets.md/Screenshot1.png
-     /assets.md/Screenshot2.png
-     /assets.md/Screenshot3.png
-     /assets.md/Screenshot4.png
-     /assets.md/Screenshot5.png
-     /assets.md/Screenshot6.png
-     /assets.md/Screenshot7.png
-     /assets.md/Screenshot8.png
+     ![Output](/assets.md/Screenshot1.png "image1")
+     ![Output](/assets.md/Screenshot2.png "image2")
+     ![Output](/assets.md/Screenshot2.png "image3")
+     ![Output](/assets.md/Screenshot2.png "image4")
+     ![Output](/assets.md/Screenshot2.png "image5")
+     ![Output](/assets.md/Screenshot2.png "image6")
+     ![Output](/assets.md/Screenshot2.png "image7")
+     ![Output](/assets.md/Screenshot2.png "image8")
+
      
