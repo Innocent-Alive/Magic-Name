@@ -23,12 +23,12 @@ $ 👉 stands for a smiley
                
 ◽  So all the above symbols and alphabets can be given by the user in the input statement and output
      will be as follows:
-     /assets/Screenshot 2023-05-27 002347.png
-     /assets/Screenshot 2023-05-27 002413.png
-     /assets/Screenshot 2023-05-27 002437.png
-     /assets/Screenshot 2023-05-27 002458.png
-     /assets/Screenshot 2023-05-27 002515.png
-     /assets/Screenshot 2023-05-27 002530.png
-     /assets/Screenshot 2023-05-27 002543.png
-     /assets/Screenshot 2023-05-27 002603.png
+     /assets.md/Screenshot 2023-05-27 002347.png
+     /assets.md/Screenshot 2023-05-27 002413.png
+     /assets.md/Screenshot 2023-05-27 002437.png
+     /assets.md/Screenshot 2023-05-27 002458.png
+     /assets.md/Screenshot 2023-05-27 002515.png
+     /assets.md/Screenshot 2023-05-27 002530.png
+     /assets.md/Screenshot 2023-05-27 002543.png
+     /assets.md/Screenshot 2023-05-27 002603.png
      
