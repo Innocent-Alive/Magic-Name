@@ -25,11 +25,11 @@
      will be as follows:
      ![Output](/assets.md/Screenshot1.png "image1")
      ![Output](/assets.md/Screenshot2.png "image2")
-     ![Output](/assets.md/Screenshot2.png "image3")
-     ![Output](/assets.md/Screenshot2.png "image4")
-     ![Output](/assets.md/Screenshot2.png "image5")
-     ![Output](/assets.md/Screenshot2.png "image6")
-     ![Output](/assets.md/Screenshot2.png "image7")
-     ![Output](/assets.md/Screenshot2.png "image8")
+     ![Output](/assets.md/Screenshot3.png "image3")
+     ![Output](/assets.md/Screenshot4.png "image4")
+     ![Output](/assets.md/Screenshot5.png "image5")
+     ![Output](/assets.md/Screenshot6.png "image6")
+     ![Output](/assets.md/Screenshot7.png "image7")
+     ![Output](/assets.md/Screenshot8.png "image8")
 
      
