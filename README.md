@@ -16,10 +16,10 @@
 "^" 👉 stands for a some secret message for your haters.
             
 ◽ You need to install two module of Python in order to execute the program in your machine they are,
-    1. fontstyle:
-               `pip install fontstyle`
-    2. colorama:
-               `pip install colorama`
+    <li>1. fontstyle:
+               `pip install fontstyle`</li>
+    <li>2. colorama:
+               `pip install colorama`</li>
                
 ◽  So all the above symbols and alphabets can be given by the user in the input statement and output
      will be as follows:                                                                                                                                                                       
